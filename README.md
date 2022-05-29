@@ -1,2 +1,2 @@
-# 100-Python-Exercises
-Repo of 100+ exercises advance python solution. Work in progress 
+# 100+ Exercises - Advanced Python Programming. From Udemy Course
+Repository of 00+ Exercises - Advanced Python Programming. From Udemy Course. Work in progress 
